@@ -1,6 +1,6 @@
 <h1 align="center"> I'm Yasindu Dilshan</h1>
 
-<h3 align="center">A Final Year Undergraduate at Department of Computer Science & Engineering @University of Moratuwa, Sri Lanka</h3>
+<h3 align="center">CSE Graduate @University of Moratuwa, Sri Lanka</h3>
 <h3 align="center">Software Engineer @GTN, Sri Lanka</h3>
 
 <h3 align="left">Programming Languages</h3>
